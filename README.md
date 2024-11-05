@@ -111,7 +111,7 @@ role_id: Foreign key referencing the id in the role table.
 manager_id: Foreign key referencing the id in the employee table to establish a manager-subordinate relationship.
 
 Demo
-A walkthrough video demonstrating the full functionality of the Employee Tracker application is available here:
+A walkthrough video demonstrating the full functionality of the Employee Tracker application is available here: https://www.youtube.com/watch?v=a_qC4a8T1ds 
 
 The video covers:
 
